@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Company>ZTn</Company>
+    <Authors>ZTn</Authors>
+    <Product>ZTn C# Helpers</Product>
+    <PackageId>ZTn.Cryptography.Helpers</PackageId>
+    <RootNamespace>ZTn.Cryptography.Helpers</RootNamespace>
+    <Copyright>ZTn 2020</Copyright>
+    <Description>A very simple library providing some extension methods for cryptographic purposes.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <AssemblyName>ZTn.Cryptography.Helpers</AssemblyName>
+    <PackageProjectUrl>https://github.com/zetoken/Cryptography.Helpers</PackageProjectUrl>
+    <PackageTags>csharp netstandard cryptography</PackageTags>
+    <Version>1.0.0</Version>
+    <PackageLicenseUrl></PackageLicenseUrl>
+    <RepositoryUrl>https://github.com/zetoken/Cryptography.Helpers</RepositoryUrl>
+    <PackageReleaseNotes></PackageReleaseNotes>
+    <PackageLicenseFile></PackageLicenseFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Nullable>Enable</Nullable>
+  </PropertyGroup>
+
+</Project>
